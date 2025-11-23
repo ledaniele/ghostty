@@ -1,0 +1,17 @@
+# Ghostty Ini file by Daniele Turazzini
+
+# Font Settings
+font-family = FiraCode Nerd Font Mono
+font-size = 13
+font-feature = -calt, -liga, -dlig
+
+# Theme
+#theme = Catppuccin Mocha 
+theme = Catppuccin Frappe 
+window-padding-x = 25
+window-padding-y = 25
+macos-titlebar-proxy-icon = hidden
+# background-opacity = 0.97
+# macos-icon =custom
+window-height = 30
+window-width = 100
