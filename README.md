@@ -1,2 +1,2 @@
-# ghostty
+# Ghostty
 My personal Ghostty configuration.
